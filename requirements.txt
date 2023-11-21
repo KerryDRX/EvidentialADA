@@ -1,0 +1,7 @@
+tqdm
+yacs
+pillow==8.4.0
+-f https://download.pytorch.org/whl/torch_stable.html
+torch==1.7.0+cu110
+-f https://download.pytorch.org/whl/torch_stable.html
+torchvision==0.8.1+cu110
