@@ -30,8 +30,8 @@ Official implementation of
 
 [paper](https://arxiv.org/abs/2311.11367)
 | [code](https://github.com/KerryDRX/EvidentialADA)
-| [abstract](docs/abstract.pdf)
-| [poster](docs/poster.pdf)
+| [abstract](https://github.com/KerryDRX/EvidentialADA/blob/main/docs/abstract.pdf)
+| [poster](https://github.com/KerryDRX/EvidentialADA/blob/main/docs/poster.pdf)
 
 ## Datasets
 - [Office-Home](https://www.hemanthdv.org/officeHomeDataset.html)
