@@ -25,8 +25,8 @@ Official implementation of
 [Haris I. Sair](https://scholar.google.com/citations?hl=en&user=DcUpmR8AAAAJ)<sup>2</sup>,
 [Craig Jones](https://scholar.google.com/citations?hl=en&user=uWxO67gAAAAJ)<sup>1</sup>
 <br/>
-<sup>1 </sup>Johns Hopkins University,
-<sup>2 </sup>Johns Hopkins University School of Medicine
+<sup>1</sup>Johns Hopkins University,
+<sup>2</sup>Johns Hopkins University School of Medicine
 
 [paper](https://arxiv.org/abs/2311.11367)
 | [code](https://github.com/KerryDRX/EvidentialADA)
