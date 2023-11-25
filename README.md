@@ -12,7 +12,7 @@
 An active domain adaptation framework based on **evidential deep learning** (EDL) implemented with
 - two **sampling strategies**: uncertainty sampling and certainty sampling
 - two **uncertainty quantification methods**: entropy-based and variance-based
-- three **EDL loss functions**: negative log likelihood, cross-entropy, and sum-of-squares
+- three **EDL loss functions**: negative log-likelihood, cross-entropy, and sum-of-squares
 
 ## Paper
 Official implementation of 
@@ -58,7 +58,7 @@ conda activate active
 pip install -r requirements.txt
 ```
 
-- Download dataset from [Office-Home](https://www.hemanthdv.org/officeHomeDataset.html) or [Visda-2017](http://ai.bu.edu/visda-2017) to local environment. Image files should be stored the hierarchy of   
+- Download dataset from [Office-Home](https://www.hemanthdv.org/officeHomeDataset.html) or [Visda-2017](http://ai.bu.edu/visda-2017) to local environment. Image files should be stored in the hierarchy of   
   - `<dataset-folder>/<domain>/<class>/<image-filename>`.
 - In [src/config.py](src/config.py):
   - Set `DATASET.NAME` to `"Office-Home"` or `"Visda-2017"`.
