@@ -31,8 +31,8 @@ Official implementation of
 [paper](https://arxiv.org/abs/2311.11367)
 | [code](https://github.com/KerryDRX/EvidentialADA)
 | [slides](https://github.com/KerryDRX/EvidentialADA/blob/main/docs/slides.pdf)
-| [poster (WACV)](https://github.com/KerryDRX/EvidentialADA/blob/main/docs/poster (WACV).pdf)
-| [poster (AI-X)](https://github.com/KerryDRX/EvidentialADA/blob/main/docs/poster (AI-X).pdf)
+| [poster (WACV)](https://github.com/KerryDRX/EvidentialADA/blob/main/docs/poster-WACV.pdf)
+| [poster (AI-X)](https://github.com/KerryDRX/EvidentialADA/blob/main/docs/poster-AI-X.pdf)
 | [abstract](https://github.com/KerryDRX/EvidentialADA/blob/main/docs/abstract.pdf)
 
 ## Datasets
